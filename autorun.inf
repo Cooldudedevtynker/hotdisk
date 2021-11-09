@@ -1,1 +1,2 @@
-[Autorun] Open=MyApp.exe Action=Start MyApp Label=My Portable PC Icon=MyApp.exe
+(directory)=
+[Autorun] Open=(directory) Action=(directory) MyApp Label=My Portable PC Icon=(directory)
